@@ -1,0 +1,522 @@
+VisitDate,InsuranceType,PlanYearType,PayerName,NetworkStatus,ServiceCategory,EstimateValue,PatientResponsibility,CopayPortion
+2024-03-21,Commercial,Calendar Year,Aetna,Out-of-Network,Advanced Imaging (MRI/CT/US),10545.93,4619.25,0.0
+2024-04-04,Commercial,Non-Calendar Year,Aetna,In-Network,Advanced Imaging (MRI/CT/US),7380.44,2553.39,0.0
+2024-04-10,Commercial,Calendar Year,Aetna,Out-of-Network,Advanced Imaging (MRI/CT/US),8801.57,4446.21,388.0
+2024-04-16,Commercial,Calendar Year,Aetna,In-Network,Advanced Imaging (MRI/CT/US),8061.07,3126.48,274.0
+2024-04-16,Commercial,Calendar Year,Aetna,In-Network,Advanced Imaging (MRI/CT/US),7905.76,3171.04,484.0
+2024-04-21,Commercial,Calendar Year,Aetna,In-Network,Advanced Imaging (MRI/CT/US),7923.77,2987.03,381.0
+2024-06-02,Commercial,Calendar Year,Aetna,In-Network,Advanced Imaging (MRI/CT/US),8001.1,2614.22,0.0
+2024-06-05,Commercial,Calendar Year,Aetna,In-Network,Advanced Imaging (MRI/CT/US),8089.87,2940.77,0.0
+2024-06-12,Commercial,Calendar Year,Aetna,In-Network,Advanced Imaging (MRI/CT/US),8047.26,3184.87,398.0
+2024-07-14,Commercial,Calendar Year,Aetna,In-Network,Advanced Imaging (MRI/CT/US),6138.07,960.61,0.0
+2024-07-15,Commercial,Calendar Year,Aetna,In-Network,Advanced Imaging (MRI/CT/US),6089.93,1657.45,0.0
+2024-07-15,Commercial,Calendar Year,Aetna,In-Network,Advanced Imaging (MRI/CT/US),5950.94,1277.87,296.0
+2024-04-03,Medicare,Non-Calendar Year,Aetna Medicare,In-Network,Advanced Imaging (MRI/CT/US),7417.21,2124.54,0.0
+2024-04-21,Medicare,Calendar Year,Aetna Medicare,In-Network,Advanced Imaging (MRI/CT/US),7627.78,2569.56,356.0
+2024-05-20,Medicare,Calendar Year,Aetna Medicare,In-Network,Advanced Imaging (MRI/CT/US),7381.69,2646.27,318.0
+2024-05-22,Medicare,Calendar Year,Aetna Medicare,In-Network,Advanced Imaging (MRI/CT/US),7346.68,2197.29,0.0
+2024-07-14,Medicare,Non-Calendar Year,Aetna Medicare,In-Network,Advanced Imaging (MRI/CT/US),6395.95,1563.99,254.0
+2024-07-24,Medicare,Calendar Year,Aetna Medicare,Out-of-Network,Advanced Imaging (MRI/CT/US),6884.98,1602.83,0.0
+2024-05-02,Commercial,Calendar Year,Excellus,Out-of-Network,Advanced Imaging (MRI/CT/US),8417.77,2931.64,0.0
+2024-05-09,Commercial,Calendar Year,Excellus,In-Network,Advanced Imaging (MRI/CT/US),8021.17,2899.51,388.0
+2024-06-06,Commercial,Calendar Year,Excellus,In-Network,Advanced Imaging (MRI/CT/US),7336.79,3271.17,453.0
+2024-07-22,Commercial,Calendar Year,Excellus,In-Network,Advanced Imaging (MRI/CT/US),6368.39,1491.0,0.0
+2024-07-30,Commercial,Calendar Year,Excellus,In-Network,Advanced Imaging (MRI/CT/US),6426.38,1299.54,0.0
+2024-08-07,Commercial,Calendar Year,Excellus,Out-of-Network,Advanced Imaging (MRI/CT/US),6858.93,2090.14,0.0
+2024-06-04,Medicaid,Calendar Year,Excellus Medicaid,In-Network,Advanced Imaging (MRI/CT/US),6601.5,0.0,0.0
+2024-07-10,Medicaid,Calendar Year,Excellus Medicaid,Out-of-Network,Advanced Imaging (MRI/CT/US),6309.58,0.0,0.0
+2024-03-12,Medicare,Calendar Year,Excellus Medicare,In-Network,Advanced Imaging (MRI/CT/US),9097.58,4436.09,0.0
+2024-04-14,Medicare,Calendar Year,Excellus Medicare,In-Network,Advanced Imaging (MRI/CT/US),7649.38,2710.8,467.0
+2024-05-13,Medicare,Calendar Year,Excellus Medicare,Out-of-Network,Advanced Imaging (MRI/CT/US),8305.12,3357.22,292.0
+2024-06-04,Medicare,Calendar Year,Excellus Medicare,In-Network,Advanced Imaging (MRI/CT/US),7444.53,2952.03,439.0
+2024-08-07,Medicare,Calendar Year,Excellus Medicare,In-Network,Advanced Imaging (MRI/CT/US),6107.1,1753.22,296.0
+2024-08-15,Medicare,Non-Calendar Year,Excellus Medicare,In-Network,Advanced Imaging (MRI/CT/US),6069.02,1262.56,0.0
+2024-04-02,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Advanced Imaging (MRI/CT/US),8755.49,2903.82,0.0
+2024-05-02,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Advanced Imaging (MRI/CT/US),8611.38,2813.01,0.0
+2024-07-21,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Advanced Imaging (MRI/CT/US),6483.53,2273.2,315.0
+2024-08-12,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Advanced Imaging (MRI/CT/US),7032.05,1799.2,0.0
+2024-08-29,Commercial,Non-Calendar Year,Fidelis Bronze,Out-of-Network,Advanced Imaging (MRI/CT/US),6783.51,1399.78,0.0
+2024-06-30,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Advanced Imaging (MRI/CT/US),8763.95,4273.98,256.0
+2024-06-30,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Advanced Imaging (MRI/CT/US),8334.81,3454.23,350.0
+2024-07-02,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Advanced Imaging (MRI/CT/US),7126.2,2450.17,416.0
+2024-07-23,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Advanced Imaging (MRI/CT/US),6912.61,1790.22,0.0
+2024-08-22,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Advanced Imaging (MRI/CT/US),6725.14,2132.94,365.0
+2024-05-02,Medicaid,Non-Calendar Year,Fidelis Medicaid,Out-of-Network,Advanced Imaging (MRI/CT/US),7912.11,0.0,0.0
+2024-05-22,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Advanced Imaging (MRI/CT/US),7434.31,0.0,0.0
+2024-06-02,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Advanced Imaging (MRI/CT/US),7488.36,0.0,0.0
+2024-08-06,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Advanced Imaging (MRI/CT/US),5964.36,0.0,0.0
+2024-08-21,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Advanced Imaging (MRI/CT/US),5984.53,0.0,0.0
+2024-07-24,Medicare,Calendar Year,Fidelis Medicare,Out-of-Network,Advanced Imaging (MRI/CT/US),7087.3,1806.52,0.0
+2024-04-14,Commercial,Non-Calendar Year,Fidelis Silver,Out-of-Network,Advanced Imaging (MRI/CT/US),8328.24,2591.02,0.0
+2024-04-14,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Advanced Imaging (MRI/CT/US),8445.11,2879.53,0.0
+2024-04-22,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Advanced Imaging (MRI/CT/US),8504.11,4069.07,363.0
+2024-06-05,Commercial,Non-Calendar Year,Fidelis Silver,Out-of-Network,Advanced Imaging (MRI/CT/US),8099.27,3297.5,264.0
+2024-08-11,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Advanced Imaging (MRI/CT/US),6827.46,1747.05,0.0
+2024-09-11,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Advanced Imaging (MRI/CT/US),6764.2,1780.55,0.0
+2024-03-21,Commercial,Calendar Year,MVP,In-Network,Advanced Imaging (MRI/CT/US),9506.98,4658.88,347.0
+2024-04-23,Commercial,Calendar Year,MVP,In-Network,Advanced Imaging (MRI/CT/US),7940.6,3248.0,0.0
+2024-09-02,Commercial,Calendar Year,MVP,In-Network,Advanced Imaging (MRI/CT/US),6167.7,1017.3,0.0
+2024-07-29,Medicaid,Calendar Year,MVP Medicaid,In-Network,Advanced Imaging (MRI/CT/US),5624.19,0.0,0.0
+2024-03-28,Medicare,Calendar Year,MVP Medicare,In-Network,Advanced Imaging (MRI/CT/US),9317.77,4033.78,453.0
+2024-05-28,Medicare,Calendar Year,MVP Medicare,In-Network,Advanced Imaging (MRI/CT/US),7841.5,2663.4,422.0
+2024-04-15,Commercial,Calendar Year,Meritian Health,Out-of-Network,Advanced Imaging (MRI/CT/US),8615.91,3844.08,0.0
+2024-08-20,Commercial,Non-Calendar Year,Meritian Health,Out-of-Network,Advanced Imaging (MRI/CT/US),7055.24,2110.37,350.0
+2024-05-07,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Advanced Imaging (MRI/CT/US),7483.51,0.0,0.0
+2024-09-09,Medicaid,Non-Calendar Year,Meritian Health Medicaid,Out-of-Network,Advanced Imaging (MRI/CT/US),5980.35,0.0,0.0
+2024-03-14,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Advanced Imaging (MRI/CT/US),10533.11,5790.17,423.0
+2024-09-05,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Advanced Imaging (MRI/CT/US),6836.71,1416.37,0.0
+2024-03-24,Self-Pay,Calendar Year,Self-Pay,In-Network,Advanced Imaging (MRI/CT/US),8718.55,8718.55,0.0
+2024-04-15,Self-Pay,Calendar Year,Self-Pay,In-Network,Advanced Imaging (MRI/CT/US),7478.78,7478.78,0.0
+2024-07-10,Self-Pay,Calendar Year,Self-Pay,In-Network,Advanced Imaging (MRI/CT/US),5916.25,5916.25,0.0
+2024-04-01,Commercial,Calendar Year,UHC,In-Network,Advanced Imaging (MRI/CT/US),7459.48,2984.64,457.0
+2024-04-24,Commercial,Calendar Year,UHC,In-Network,Advanced Imaging (MRI/CT/US),7761.89,2542.22,298.0
+2024-04-30,Commercial,Non-Calendar Year,UHC,In-Network,Advanced Imaging (MRI/CT/US),7978.23,3005.78,0.0
+2024-05-05,Commercial,Calendar Year,UHC,In-Network,Advanced Imaging (MRI/CT/US),7917.87,2834.74,0.0
+2024-06-09,Commercial,Calendar Year,UHC,In-Network,Advanced Imaging (MRI/CT/US),7787.49,2239.25,0.0
+2024-06-09,Commercial,Calendar Year,UHC,In-Network,Advanced Imaging (MRI/CT/US),8093.01,2182.69,0.0
+2024-07-15,Commercial,Calendar Year,UHC,Out-of-Network,Advanced Imaging (MRI/CT/US),6483.15,1697.31,0.0
+2024-08-14,Commercial,Calendar Year,UHC,In-Network,Advanced Imaging (MRI/CT/US),6378.72,1156.3,0.0
+2024-08-20,Commercial,Calendar Year,UHC,In-Network,Advanced Imaging (MRI/CT/US),6141.06,1632.1,422.0
+2024-04-07,Medicaid,Calendar Year,UHC Medicaid,In-Network,Advanced Imaging (MRI/CT/US),7055.76,0.0,0.0
+2024-07-23,Medicaid,Calendar Year,UHC Medicaid,Out-of-Network,Advanced Imaging (MRI/CT/US),6310.63,0.0,0.0
+2024-03-27,Medicare,Calendar Year,UHC Medicare,In-Network,Advanced Imaging (MRI/CT/US),9259.19,4453.75,0.0
+2024-05-22,Commercial,Calendar Year,Aetna,In-Network,Behavioral Health,7751.29,3249.65,0.0
+2024-07-18,Commercial,Calendar Year,Aetna,In-Network,Behavioral Health,6238.3,1343.91,0.0
+2024-08-05,Commercial,Calendar Year,Aetna,In-Network,Behavioral Health,6094.28,1433.64,0.0
+2024-08-01,Medicaid,Calendar Year,Aetna Medicaid,In-Network,Behavioral Health,5808.55,0.0,0.0
+2024-08-06,Medicaid,Calendar Year,Aetna Medicaid,In-Network,Behavioral Health,5434.83,0.0,0.0
+2024-05-20,Medicare,Calendar Year,Aetna Medicare,Out-of-Network,Behavioral Health,8678.83,3153.02,0.0
+2024-08-15,Medicare,Calendar Year,Aetna Medicare,In-Network,Behavioral Health,6137.46,1346.4,0.0
+2024-05-15,Commercial,Non-Calendar Year,Excellus,Out-of-Network,Behavioral Health,8483.76,3355.41,0.0
+2024-05-23,Commercial,Calendar Year,Excellus,In-Network,Behavioral Health,8091.34,2710.15,0.0
+2024-05-30,Commercial,Calendar Year,Excellus,In-Network,Behavioral Health,7730.6,2806.88,37.0
+2024-06-06,Commercial,Calendar Year,Excellus,In-Network,Behavioral Health,7605.45,2195.69,26.0
+2024-06-27,Medicare,Calendar Year,Excellus Medicare,In-Network,Behavioral Health,7862.05,2029.35,0.0
+2024-07-22,Medicare,Non-Calendar Year,Excellus Medicare,In-Network,Behavioral Health,5993.35,1112.25,0.0
+2024-03-28,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Behavioral Health,10094.38,5278.88,0.0
+2024-07-07,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Behavioral Health,6895.17,1823.58,0.0
+2024-05-20,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Behavioral Health,8542.95,3190.4,0.0
+2024-07-02,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Behavioral Health,6557.83,1972.7,0.0
+2024-07-03,Commercial,Non-Calendar Year,Fidelis Gold,Out-of-Network,Behavioral Health,6815.14,1895.3,49.0
+2024-07-28,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Behavioral Health,7016.89,1402.32,0.0
+2024-04-30,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Behavioral Health,7918.99,0.0,0.0
+2024-03-24,Medicare,Calendar Year,Fidelis Medicare,Out-of-Network,Behavioral Health,9954.39,5080.19,34.0
+2024-08-20,Medicare,Calendar Year,Fidelis Medicare,Out-of-Network,Behavioral Health,6891.94,1529.17,42.0
+2024-04-07,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Behavioral Health,8280.59,3612.82,0.0
+2024-04-21,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Behavioral Health,8228.32,3555.04,0.0
+2024-05-16,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Behavioral Health,8762.73,3273.07,47.0
+2024-05-20,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Behavioral Health,8119.86,3157.64,45.0
+2024-04-30,Commercial,Calendar Year,MVP,In-Network,Behavioral Health,7813.53,2624.79,0.0
+2024-05-07,Commercial,Calendar Year,MVP,In-Network,Behavioral Health,7332.1,2578.24,50.0
+2024-05-21,Commercial,Calendar Year,MVP,In-Network,Behavioral Health,7396.95,2578.05,0.0
+2024-05-22,Commercial,Calendar Year,MVP,Out-of-Network,Behavioral Health,8785.53,3271.89,0.0
+2024-07-17,Commercial,Calendar Year,MVP,In-Network,Behavioral Health,5927.94,1294.87,24.0
+2024-07-30,Commercial,Calendar Year,MVP,In-Network,Behavioral Health,6419.63,1661.82,0.0
+2024-03-20,Medicaid,Calendar Year,MVP Medicaid,Out-of-Network,Behavioral Health,9307.47,0.0,0.0
+2024-04-15,Medicare,Non-Calendar Year,MVP Medicare,In-Network,Behavioral Health,7358.25,2612.01,0.0
+2024-03-25,Commercial,Calendar Year,Meritian Health,Out-of-Network,Behavioral Health,10106.29,6114.27,0.0
+2024-06-11,Commercial,Calendar Year,Meritian Health,Out-of-Network,Behavioral Health,8818.55,3661.21,0.0
+2024-08-01,Commercial,Calendar Year,Meritian Health,Out-of-Network,Behavioral Health,6846.48,1473.26,0.0
+2024-03-12,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Behavioral Health,8729.18,0.0,0.0
+2024-03-20,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Behavioral Health,9708.23,4530.0,39.0
+2024-03-24,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Behavioral Health,9773.1,4778.81,0.0
+2024-03-26,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Behavioral Health,10583.49,5036.33,26.0
+2024-06-27,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Behavioral Health,8119.42,3009.74,22.0
+2024-07-08,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Behavioral Health,6517.64,1570.43,0.0
+2024-07-09,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Behavioral Health,6510.32,1653.8,39.0
+2024-08-12,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Behavioral Health,6921.91,1877.37,0.0
+2024-09-03,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Behavioral Health,7007.68,2028.07,0.0
+2024-05-15,Self-Pay,Calendar Year,Self-Pay,In-Network,Behavioral Health,7382.32,7382.32,0.0
+2024-05-22,Self-Pay,Calendar Year,Self-Pay,Out-of-Network,Behavioral Health,7703.5,7703.5,0.0
+2024-08-11,Self-Pay,Calendar Year,Self-Pay,Out-of-Network,Behavioral Health,6659.69,6659.69,0.0
+2024-04-15,Commercial,Calendar Year,UHC,In-Network,Behavioral Health,7523.76,2712.51,20.0
+2024-06-12,Commercial,Calendar Year,UHC,In-Network,Behavioral Health,7854.37,3152.25,0.0
+2024-07-09,Commercial,Calendar Year,UHC,Out-of-Network,Behavioral Health,6851.01,1595.24,0.0
+2024-07-29,Commercial,Calendar Year,UHC,In-Network,Behavioral Health,6089.84,1212.45,0.0
+2024-08-28,Commercial,Calendar Year,UHC,In-Network,Behavioral Health,6409.85,1856.89,23.0
+2024-05-08,Medicaid,Non-Calendar Year,UHC Medicaid,In-Network,Behavioral Health,7254.29,0.0,0.0
+2024-08-08,Medicaid,Calendar Year,UHC Medicaid,Out-of-Network,Behavioral Health,5865.12,0.0,0.0
+2024-08-12,Medicaid,Calendar Year,UHC Medicaid,In-Network,Behavioral Health,5344.34,0.0,0.0
+2024-03-12,Medicare,Calendar Year,UHC Medicare,In-Network,Behavioral Health,8981.12,3799.34,0.0
+2024-03-21,Commercial,Calendar Year,Aetna,In-Network,Lab Test (Blood),9533.85,5386.8,46.0
+2024-03-21,Commercial,Calendar Year,Aetna,In-Network,Lab Test (Blood),9351.67,4503.04,29.0
+2024-04-17,Commercial,Calendar Year,Aetna,In-Network,Lab Test (Blood),7612.5,2947.34,37.0
+2024-05-14,Commercial,Calendar Year,Aetna,In-Network,Lab Test (Blood),7380.02,2782.83,0.0
+2024-05-14,Commercial,Calendar Year,Aetna,In-Network,Lab Test (Blood),7639.44,2588.71,0.0
+2024-05-20,Commercial,Calendar Year,Aetna,In-Network,Lab Test (Blood),7550.56,2868.37,0.0
+2024-06-10,Commercial,Calendar Year,Aetna,In-Network,Lab Test (Blood),7756.68,2260.83,33.0
+2024-06-10,Commercial,Calendar Year,Aetna,Out-of-Network,Lab Test (Blood),8567.3,3728.1,48.0
+2024-07-16,Commercial,Calendar Year,Aetna,In-Network,Lab Test (Blood),6174.43,1380.92,49.0
+2024-07-30,Commercial,Calendar Year,Aetna,In-Network,Lab Test (Blood),6425.63,1445.57,0.0
+2024-08-05,Commercial,Calendar Year,Aetna,In-Network,Lab Test (Blood),6044.09,1015.5,0.0
+2024-08-05,Commercial,Calendar Year,Aetna,In-Network,Lab Test (Blood),6197.97,1803.17,46.0
+2024-08-15,Commercial,Calendar Year,Aetna,In-Network,Lab Test (Blood),5965.12,1245.85,0.0
+2024-09-02,Commercial,Calendar Year,Aetna,Out-of-Network,Lab Test (Blood),6973.62,1827.36,0.0
+2024-05-15,Medicaid,Calendar Year,Aetna Medicaid,In-Network,Lab Test (Blood),6777.92,0.0,0.0
+2024-07-17,Medicare,Calendar Year,Aetna Medicare,Out-of-Network,Lab Test (Blood),6678.61,1954.2,0.0
+2024-07-28,Medicare,Non-Calendar Year,Aetna Medicare,In-Network,Lab Test (Blood),5963.4,1120.15,0.0
+2024-08-26,Medicare,Calendar Year,Aetna Medicare,In-Network,Lab Test (Blood),5951.65,1357.74,29.0
+2024-04-11,Commercial,Calendar Year,Excellus,Out-of-Network,Lab Test (Blood),8157.94,2795.19,0.0
+2024-04-30,Commercial,Calendar Year,Excellus,In-Network,Lab Test (Blood),7800.79,2103.73,0.0
+2024-05-14,Commercial,Non-Calendar Year,Excellus,In-Network,Lab Test (Blood),8037.46,2798.46,22.0
+2024-06-04,Commercial,Calendar Year,Excellus,In-Network,Lab Test (Blood),7364.8,2236.33,0.0
+2024-08-07,Commercial,Calendar Year,Excellus,In-Network,Lab Test (Blood),6181.47,1438.19,29.0
+2024-08-20,Commercial,Calendar Year,Excellus,In-Network,Lab Test (Blood),6336.43,1567.19,0.0
+2024-03-14,Medicaid,Calendar Year,Excellus Medicaid,In-Network,Lab Test (Blood),8551.75,0.0,0.0
+2024-06-25,Medicaid,Calendar Year,Excellus Medicaid,In-Network,Lab Test (Blood),6961.84,0.0,0.0
+2024-07-24,Medicaid,Calendar Year,Excellus Medicaid,In-Network,Lab Test (Blood),5572.12,0.0,0.0
+2024-06-27,Medicare,Calendar Year,Excellus Medicare,In-Network,Lab Test (Blood),7888.16,2785.73,0.0
+2024-04-07,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Lab Test (Blood),8161.89,3383.19,30.0
+2024-04-15,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Lab Test (Blood),8823.5,3799.39,0.0
+2024-05-19,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Lab Test (Blood),8797.93,3873.56,36.0
+2024-04-11,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Lab Test (Blood),8135.66,2992.83,0.0
+2024-04-25,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Lab Test (Blood),8698.89,3394.64,26.0
+2024-05-01,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Lab Test (Blood),8533.14,3385.53,0.0
+2024-07-01,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Lab Test (Blood),6899.93,2039.4,0.0
+2024-08-26,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Lab Test (Blood),6960.43,1439.79,0.0
+2024-09-09,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Lab Test (Blood),6786.04,1493.31,0.0
+2024-04-09,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Lab Test (Blood),7334.61,0.0,0.0
+2024-05-14,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Lab Test (Blood),7279.96,0.0,0.0
+2024-05-20,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Lab Test (Blood),7385.14,0.0,0.0
+2024-07-07,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Lab Test (Blood),6244.07,0.0,0.0
+2024-08-05,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Lab Test (Blood),6197.35,0.0,0.0
+2024-08-06,Medicare,Calendar Year,Fidelis Medicare,Out-of-Network,Lab Test (Blood),6469.99,1495.34,0.0
+2024-03-18,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Lab Test (Blood),10454.3,5405.5,0.0
+2024-04-23,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Lab Test (Blood),8425.3,3944.58,0.0
+2024-05-21,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Lab Test (Blood),8770.17,3269.15,0.0
+2024-06-05,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Lab Test (Blood),8707.99,3311.24,0.0
+2024-08-04,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Lab Test (Blood),6745.6,1584.38,0.0
+2024-08-22,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Lab Test (Blood),6509.19,1448.45,0.0
+2024-04-03,Commercial,Calendar Year,MVP,Out-of-Network,Lab Test (Blood),8673.02,3946.17,0.0
+2024-04-25,Commercial,Calendar Year,MVP,Out-of-Network,Lab Test (Blood),8675.05,3931.27,0.0
+2024-05-15,Commercial,Non-Calendar Year,MVP,In-Network,Lab Test (Blood),8088.98,2501.48,20.0
+2024-05-20,Commercial,Calendar Year,MVP,In-Network,Lab Test (Blood),7886.65,2851.47,22.0
+2024-06-03,Commercial,Calendar Year,MVP,In-Network,Lab Test (Blood),7511.59,3065.93,42.0
+2024-06-11,Commercial,Calendar Year,MVP,Out-of-Network,Lab Test (Blood),8700.21,3571.84,0.0
+2024-06-23,Commercial,Calendar Year,MVP,In-Network,Lab Test (Blood),7742.94,2516.7,0.0
+2024-07-02,Commercial,Calendar Year,MVP,In-Network,Lab Test (Blood),6329.3,1459.95,0.0
+2024-07-24,Commercial,Calendar Year,MVP,In-Network,Lab Test (Blood),5895.59,1317.83,0.0
+2024-08-04,Commercial,Calendar Year,MVP,In-Network,Lab Test (Blood),6177.25,1291.87,22.0
+2024-05-28,Medicaid,Calendar Year,MVP Medicaid,In-Network,Lab Test (Blood),6927.13,0.0,0.0
+2024-06-26,Medicaid,Calendar Year,MVP Medicaid,In-Network,Lab Test (Blood),6732.97,0.0,0.0
+2024-04-09,Medicare,Calendar Year,MVP Medicare,In-Network,Lab Test (Blood),7669.82,2313.74,0.0
+2024-04-18,Medicare,Calendar Year,MVP Medicare,Out-of-Network,Lab Test (Blood),8388.66,2577.66,0.0
+2024-05-29,Medicare,Calendar Year,MVP Medicare,In-Network,Lab Test (Blood),7611.14,2383.18,31.0
+2024-07-07,Medicare,Calendar Year,MVP Medicare,In-Network,Lab Test (Blood),6258.6,1273.77,0.0
+2024-05-07,Commercial,Calendar Year,Meritian Health,Out-of-Network,Lab Test (Blood),8094.73,3265.18,38.0
+2024-05-13,Commercial,Calendar Year,Meritian Health,Out-of-Network,Lab Test (Blood),8359.98,3279.74,41.0
+2024-05-29,Commercial,Calendar Year,Meritian Health,Out-of-Network,Lab Test (Blood),8284.63,3317.13,0.0
+2024-06-05,Commercial,Calendar Year,Meritian Health,Out-of-Network,Lab Test (Blood),8122.17,3251.16,49.0
+2024-07-08,Commercial,Calendar Year,Meritian Health,Out-of-Network,Lab Test (Blood),6634.38,1969.01,0.0
+2024-07-17,Commercial,Calendar Year,Meritian Health,Out-of-Network,Lab Test (Blood),6608.37,2264.55,0.0
+2024-05-06,Medicaid,Non-Calendar Year,Meritian Health Medicaid,Out-of-Network,Lab Test (Blood),7490.0,0.0,0.0
+2024-05-13,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Lab Test (Blood),7838.59,0.0,0.0
+2024-09-10,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Lab Test (Blood),6122.35,0.0,0.0
+2024-06-02,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Lab Test (Blood),8274.05,3326.8,0.0
+2024-06-11,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Lab Test (Blood),8733.47,3282.27,0.0
+2024-07-16,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Lab Test (Blood),6579.98,1638.54,0.0
+2024-09-10,Medicare,Non-Calendar Year,Meritian Health Medicare,Out-of-Network,Lab Test (Blood),7051.6,1607.77,26.0
+2024-05-07,Self-Pay,Calendar Year,Self-Pay,In-Network,Lab Test (Blood),7495.79,7495.79,0.0
+2024-07-25,Self-Pay,Calendar Year,Self-Pay,In-Network,Lab Test (Blood),5639.58,5639.58,0.0
+2024-08-01,Self-Pay,Calendar Year,Self-Pay,In-Network,Lab Test (Blood),6027.7,6027.7,0.0
+2024-08-14,Self-Pay,Calendar Year,Self-Pay,In-Network,Lab Test (Blood),5683.65,5683.65,0.0
+2024-04-09,Commercial,Non-Calendar Year,UHC,Out-of-Network,Lab Test (Blood),8193.81,3086.53,0.0
+2024-04-17,Commercial,Calendar Year,UHC,In-Network,Lab Test (Blood),7742.73,2371.95,0.0
+2024-05-06,Commercial,Calendar Year,UHC,Out-of-Network,Lab Test (Blood),8662.12,2950.04,0.0
+2024-05-15,Commercial,Calendar Year,UHC,In-Network,Lab Test (Blood),7489.55,2608.11,0.0
+2024-07-21,Commercial,Calendar Year,UHC,In-Network,Lab Test (Blood),6454.56,1294.93,0.0
+2024-07-31,Commercial,Calendar Year,UHC,In-Network,Lab Test (Blood),6245.39,1266.26,0.0
+2024-08-08,Commercial,Calendar Year,UHC,Out-of-Network,Lab Test (Blood),6893.59,1607.05,0.0
+2024-09-05,Commercial,Calendar Year,UHC,Out-of-Network,Lab Test (Blood),6735.76,2196.07,0.0
+2024-05-09,Medicaid,Calendar Year,UHC Medicaid,In-Network,Lab Test (Blood),7010.81,0.0,0.0
+2024-04-01,Medicare,Non-Calendar Year,UHC Medicare,In-Network,Lab Test (Blood),7974.9,1989.74,0.0
+2024-06-30,Medicare,Calendar Year,UHC Medicare,In-Network,Lab Test (Blood),7866.23,2145.96,0.0
+2024-03-12,Commercial,Calendar Year,Aetna,In-Network,Office Visit,9494.44,4133.06,0.0
+2024-04-17,Commercial,Calendar Year,Aetna,In-Network,Office Visit,8004.31,2927.2,0.0
+2024-06-03,Commercial,Calendar Year,Aetna,Out-of-Network,Office Visit,8780.47,3354.55,45.0
+2024-06-12,Commercial,Calendar Year,Aetna,In-Network,Office Visit,7582.75,2142.42,44.0
+2024-07-09,Commercial,Calendar Year,Aetna,In-Network,Office Visit,6281.74,1440.82,0.0
+2024-07-28,Commercial,Non-Calendar Year,Aetna,In-Network,Office Visit,6201.25,1321.96,0.0
+2024-08-22,Commercial,Calendar Year,Aetna,In-Network,Office Visit,6444.33,1505.8,0.0
+2024-08-26,Commercial,Calendar Year,Aetna,Out-of-Network,Office Visit,6759.01,1930.15,45.0
+2024-09-11,Commercial,Calendar Year,Aetna,In-Network,Office Visit,5991.83,1562.2,45.0
+2024-07-22,Medicaid,Calendar Year,Aetna Medicaid,In-Network,Office Visit,5583.14,0.0,0.0
+2024-09-16,Medicaid,Calendar Year,Aetna Medicaid,In-Network,Office Visit,5681.54,0.0,0.0
+2024-03-31,Medicare,Calendar Year,Aetna Medicare,In-Network,Office Visit,9691.73,4472.27,0.0
+2024-04-03,Medicare,Calendar Year,Aetna Medicare,In-Network,Office Visit,7763.32,2118.64,0.0
+2024-05-30,Medicare,Calendar Year,Aetna Medicare,In-Network,Office Visit,7580.52,2100.13,25.0
+2024-07-08,Medicare,Non-Calendar Year,Aetna Medicare,In-Network,Office Visit,6188.15,1471.67,28.0
+2024-08-05,Medicare,Calendar Year,Aetna Medicare,In-Network,Office Visit,6188.24,1254.75,0.0
+2024-04-21,Commercial,Calendar Year,Excellus,In-Network,Office Visit,7740.21,2741.23,0.0
+2024-04-24,Commercial,Calendar Year,Excellus,In-Network,Office Visit,8089.51,2766.41,0.0
+2024-04-24,Commercial,Calendar Year,Excellus,In-Network,Office Visit,7681.95,2789.81,43.0
+2024-05-12,Commercial,Calendar Year,Excellus,In-Network,Office Visit,7467.75,2647.8,0.0
+2024-05-13,Commercial,Non-Calendar Year,Excellus,In-Network,Office Visit,7462.99,2268.71,0.0
+2024-05-28,Commercial,Calendar Year,Excellus,In-Network,Office Visit,7856.93,2736.63,0.0
+2024-07-21,Commercial,Calendar Year,Excellus,In-Network,Office Visit,6184.91,1669.96,0.0
+2024-08-06,Commercial,Calendar Year,Excellus,In-Network,Office Visit,6281.28,1419.85,0.0
+2024-08-12,Commercial,Calendar Year,Excellus,In-Network,Office Visit,6245.25,1195.44,0.0
+2024-08-14,Commercial,Calendar Year,Excellus,In-Network,Office Visit,5910.04,934.65,0.0
+2024-09-04,Commercial,Calendar Year,Excellus,In-Network,Office Visit,6404.2,1238.83,0.0
+2024-05-29,Medicaid,Calendar Year,Excellus Medicaid,Out-of-Network,Office Visit,7574.73,0.0,0.0
+2024-03-20,Medicare,Calendar Year,Excellus Medicare,In-Network,Office Visit,9714.41,4297.19,0.0
+2024-05-02,Medicare,Non-Calendar Year,Excellus Medicare,In-Network,Office Visit,7589.88,1952.41,0.0
+2024-07-09,Medicare,Calendar Year,Excellus Medicare,In-Network,Office Visit,5999.52,1105.97,0.0
+2024-07-28,Medicare,Calendar Year,Excellus Medicare,Out-of-Network,Office Visit,6602.84,1781.71,0.0
+2024-07-31,Medicare,Calendar Year,Excellus Medicare,In-Network,Office Visit,6252.26,1190.83,24.0
+2024-03-12,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Office Visit,9764.8,4243.6,48.0
+2024-03-26,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Office Visit,9948.7,4960.82,27.0
+2024-03-28,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Office Visit,9828.0,5640.59,42.0
+2024-04-11,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Office Visit,8850.02,3649.01,0.0
+2024-05-13,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Office Visit,8482.31,2677.63,0.0
+2024-05-15,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Office Visit,8380.87,3289.93,0.0
+2024-06-09,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Office Visit,8221.98,3548.88,0.0
+2024-09-16,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Office Visit,7047.43,2470.33,36.0
+2024-03-24,Commercial,Non-Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,9716.66,5441.1,0.0
+2024-03-27,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,10107.17,4406.3,0.0
+2024-03-28,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,10512.38,6502.2,47.0
+2024-04-02,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,8284.74,2967.83,0.0
+2024-04-09,Commercial,Non-Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,8909.54,3682.04,21.0
+2024-05-01,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,8092.1,3063.41,0.0
+2024-05-02,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,8220.8,2805.7,0.0
+2024-06-25,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,8262.04,2980.58,46.0
+2024-07-03,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,6586.35,2004.46,0.0
+2024-07-10,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,6851.81,2345.97,35.0
+2024-07-24,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,7085.06,2212.12,0.0
+2024-09-02,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,6583.01,2278.64,0.0
+2024-09-10,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,6876.72,2053.91,0.0
+2024-09-12,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Office Visit,6935.42,1633.5,0.0
+2024-08-20,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Office Visit,6049.89,0.0,0.0
+2024-03-13,Medicare,Calendar Year,Fidelis Medicare,Out-of-Network,Office Visit,10186.85,5358.32,0.0
+2024-04-10,Medicare,Calendar Year,Fidelis Medicare,Out-of-Network,Office Visit,8470.51,3432.58,23.0
+2024-05-12,Medicare,Calendar Year,Fidelis Medicare,Out-of-Network,Office Visit,8387.61,2739.5,0.0
+2024-07-03,Medicare,Calendar Year,Fidelis Medicare,Out-of-Network,Office Visit,6775.73,1907.46,39.0
+2024-07-21,Medicare,Calendar Year,Fidelis Medicare,Out-of-Network,Office Visit,7048.82,1654.83,35.0
+2024-07-25,Medicare,Calendar Year,Fidelis Medicare,Out-of-Network,Office Visit,6514.63,1849.84,0.0
+2024-08-26,Medicare,Non-Calendar Year,Fidelis Medicare,Out-of-Network,Office Visit,6470.39,1525.33,0.0
+2024-03-13,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Office Visit,9993.75,5849.97,47.0
+2024-03-14,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Office Visit,10115.7,6264.55,0.0
+2024-03-20,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Office Visit,10457.58,5983.62,0.0
+2024-06-03,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Office Visit,8649.96,3648.99,0.0
+2024-06-25,Commercial,Non-Calendar Year,Fidelis Silver,Out-of-Network,Office Visit,8152.23,2607.03,0.0
+2024-06-25,Commercial,Non-Calendar Year,Fidelis Silver,Out-of-Network,Office Visit,8118.36,3459.92,0.0
+2024-07-23,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Office Visit,7094.18,2102.0,0.0
+2024-07-23,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Office Visit,6637.12,1827.76,0.0
+2024-07-24,Commercial,Non-Calendar Year,Fidelis Silver,Out-of-Network,Office Visit,6762.98,1832.55,0.0
+2024-08-26,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Office Visit,6865.89,1930.07,27.0
+2024-08-27,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Office Visit,6901.09,1890.53,0.0
+2024-04-21,Commercial,Calendar Year,MVP,In-Network,Office Visit,7811.99,2747.01,0.0
+2024-04-22,Commercial,Calendar Year,MVP,In-Network,Office Visit,8073.69,3281.06,0.0
+2024-05-23,Commercial,Calendar Year,MVP,In-Network,Office Visit,7657.16,2503.44,0.0
+2024-06-12,Commercial,Calendar Year,MVP,Out-of-Network,Office Visit,8888.17,2986.07,35.0
+2024-06-30,Commercial,Calendar Year,MVP,Out-of-Network,Office Visit,8558.59,3959.26,27.0
+2024-07-01,Commercial,Calendar Year,MVP,In-Network,Office Visit,6453.25,1572.57,0.0
+2024-08-08,Commercial,Non-Calendar Year,MVP,Out-of-Network,Office Visit,6459.68,1455.17,50.0
+2024-08-22,Commercial,Calendar Year,MVP,In-Network,Office Visit,6426.31,1246.27,0.0
+2024-08-29,Commercial,Calendar Year,MVP,In-Network,Office Visit,6368.27,1355.14,0.0
+2024-09-02,Commercial,Calendar Year,MVP,In-Network,Office Visit,6030.01,1720.99,0.0
+2024-03-28,Medicaid,Calendar Year,MVP Medicaid,In-Network,Office Visit,8129.04,0.0,0.0
+2024-03-28,Medicaid,Calendar Year,MVP Medicaid,In-Network,Office Visit,8333.41,0.0,0.0
+2024-05-09,Medicaid,Calendar Year,MVP Medicaid,In-Network,Office Visit,6820.91,0.0,0.0
+2024-06-27,Medicaid,Calendar Year,MVP Medicaid,In-Network,Office Visit,7220.55,0.0,0.0
+2024-07-31,Medicaid,Calendar Year,MVP Medicaid,In-Network,Office Visit,5659.92,0.0,0.0
+2024-08-05,Medicaid,Calendar Year,MVP Medicaid,In-Network,Office Visit,5815.13,0.0,0.0
+2024-05-16,Medicare,Calendar Year,MVP Medicare,Out-of-Network,Office Visit,8424.7,3222.08,22.0
+2024-08-01,Medicare,Calendar Year,MVP Medicare,In-Network,Office Visit,6095.51,1037.25,0.0
+2024-09-15,Medicare,Calendar Year,MVP Medicare,In-Network,Office Visit,6042.3,1072.88,32.0
+2024-03-26,Commercial,Calendar Year,Meritian Health,Out-of-Network,Office Visit,10568.89,5274.12,0.0
+2024-04-01,Commercial,Calendar Year,Meritian Health,Out-of-Network,Office Visit,8507.91,3260.22,0.0
+2024-04-17,Commercial,Calendar Year,Meritian Health,Out-of-Network,Office Visit,8332.86,3447.71,0.0
+2024-05-02,Commercial,Calendar Year,Meritian Health,Out-of-Network,Office Visit,8658.38,3824.6,0.0
+2024-05-08,Commercial,Calendar Year,Meritian Health,Out-of-Network,Office Visit,8703.12,2938.24,0.0
+2024-05-08,Commercial,Calendar Year,Meritian Health,Out-of-Network,Office Visit,8473.62,3150.56,0.0
+2024-05-28,Commercial,Non-Calendar Year,Meritian Health,Out-of-Network,Office Visit,8813.28,3821.59,32.0
+2024-06-09,Commercial,Calendar Year,Meritian Health,Out-of-Network,Office Visit,8166.35,3121.42,0.0
+2024-07-22,Commercial,Calendar Year,Meritian Health,Out-of-Network,Office Visit,6471.95,1773.42,0.0
+2024-08-05,Commercial,Calendar Year,Meritian Health,Out-of-Network,Office Visit,6665.95,1704.47,0.0
+2024-08-05,Commercial,Calendar Year,Meritian Health,Out-of-Network,Office Visit,7093.85,1472.66,0.0
+2024-09-15,Commercial,Calendar Year,Meritian Health,Out-of-Network,Office Visit,6964.86,2127.03,0.0
+2024-03-19,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Office Visit,9557.67,0.0,0.0
+2024-04-23,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Office Visit,7299.91,0.0,0.0
+2024-05-09,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Office Visit,7584.34,0.0,0.0
+2024-06-03,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Office Visit,7357.24,0.0,0.0
+2024-06-06,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Office Visit,7832.48,0.0,0.0
+2024-06-11,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Office Visit,7443.91,0.0,0.0
+2024-06-11,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Office Visit,7679.59,0.0,0.0
+2024-03-31,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Office Visit,10658.68,5594.18,33.0
+2024-04-08,Medicare,Non-Calendar Year,Meritian Health Medicare,Out-of-Network,Office Visit,8335.49,3406.44,0.0
+2024-04-08,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Office Visit,8670.5,3185.38,0.0
+2024-07-17,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Office Visit,7002.7,1489.19,40.0
+2024-08-21,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Office Visit,6533.41,1660.64,36.0
+2024-03-20,Self-Pay,Non-Calendar Year,Self-Pay,In-Network,Office Visit,8436.35,8436.35,0.0
+2024-04-16,Self-Pay,Non-Calendar Year,Self-Pay,In-Network,Office Visit,7210.38,7210.38,0.0
+2024-05-09,Self-Pay,Calendar Year,Self-Pay,In-Network,Office Visit,7281.55,7281.55,0.0
+2024-04-15,Commercial,Calendar Year,UHC,Out-of-Network,Office Visit,8222.45,3118.73,0.0
+2024-04-30,Commercial,Calendar Year,UHC,Out-of-Network,Office Visit,8701.48,4030.06,23.0
+2024-05-08,Commercial,Calendar Year,UHC,Out-of-Network,Office Visit,8680.2,3312.51,0.0
+2024-07-01,Commercial,Calendar Year,UHC,In-Network,Office Visit,6225.26,1249.12,0.0
+2024-07-03,Commercial,Calendar Year,UHC,In-Network,Office Visit,6215.41,1012.05,0.0
+2024-08-25,Commercial,Calendar Year,UHC,Out-of-Network,Office Visit,7094.3,1408.59,48.0
+2024-08-26,Commercial,Calendar Year,UHC,Out-of-Network,Office Visit,6902.0,1475.53,0.0
+2024-08-27,Commercial,Calendar Year,UHC,In-Network,Office Visit,6006.2,1310.86,50.0
+2024-09-09,Commercial,Calendar Year,UHC,In-Network,Office Visit,5913.55,1054.55,0.0
+2024-09-15,Commercial,Calendar Year,UHC,In-Network,Office Visit,6395.22,1497.88,41.0
+2024-04-18,Medicaid,Calendar Year,UHC Medicaid,In-Network,Office Visit,6851.62,0.0,0.0
+2024-06-05,Medicaid,Calendar Year,UHC Medicaid,In-Network,Office Visit,7114.88,0.0,0.0
+2024-07-03,Medicaid,Calendar Year,UHC Medicaid,In-Network,Office Visit,5500.95,0.0,0.0
+2024-08-04,Medicaid,Calendar Year,UHC Medicaid,In-Network,Office Visit,5558.11,0.0,0.0
+2024-09-09,Medicaid,Calendar Year,UHC Medicaid,In-Network,Office Visit,5410.44,0.0,0.0
+2024-09-17,Medicaid,Calendar Year,UHC Medicaid,In-Network,Office Visit,5720.05,0.0,0.0
+2024-04-16,Medicare,Calendar Year,UHC Medicare,Out-of-Network,Office Visit,8140.97,2875.5,0.0
+2024-05-23,Medicare,Calendar Year,UHC Medicare,In-Network,Office Visit,7942.03,2318.74,0.0
+2024-06-02,Medicare,Calendar Year,UHC Medicare,Out-of-Network,Office Visit,8572.11,2952.95,0.0
+2024-07-21,Medicare,Calendar Year,UHC Medicare,In-Network,Office Visit,6110.85,981.99,0.0
+2024-03-13,Commercial,Calendar Year,Aetna,In-Network,Simple Radiology (X-ray/DEXA),9286.33,3680.62,0.0
+2024-04-07,Commercial,Calendar Year,Aetna,In-Network,Simple Radiology (X-ray/DEXA),7723.5,2226.89,0.0
+2024-04-17,Commercial,Calendar Year,Aetna,In-Network,Simple Radiology (X-ray/DEXA),7557.36,3024.98,30.0
+2024-04-25,Commercial,Calendar Year,Aetna,In-Network,Simple Radiology (X-ray/DEXA),7719.98,2183.14,0.0
+2024-05-16,Commercial,Calendar Year,Aetna,In-Network,Simple Radiology (X-ray/DEXA),7435.26,2944.93,0.0
+2024-05-27,Commercial,Calendar Year,Aetna,In-Network,Simple Radiology (X-ray/DEXA),7969.16,2761.37,33.0
+2024-07-17,Commercial,Calendar Year,Aetna,In-Network,Simple Radiology (X-ray/DEXA),6099.25,1618.78,31.0
+2024-09-04,Commercial,Calendar Year,Aetna,In-Network,Simple Radiology (X-ray/DEXA),6437.73,1606.94,0.0
+2024-04-17,Medicaid,Non-Calendar Year,Aetna Medicaid,In-Network,Simple Radiology (X-ray/DEXA),6690.26,0.0,0.0
+2024-07-28,Medicaid,Calendar Year,Aetna Medicaid,In-Network,Simple Radiology (X-ray/DEXA),5357.41,0.0,0.0
+2024-04-24,Medicare,Calendar Year,Aetna Medicare,In-Network,Simple Radiology (X-ray/DEXA),7425.99,1776.4,0.0
+2024-09-09,Medicare,Calendar Year,Aetna Medicare,In-Network,Simple Radiology (X-ray/DEXA),6074.11,1145.85,0.0
+2024-04-01,Commercial,Calendar Year,Excellus,In-Network,Simple Radiology (X-ray/DEXA),7437.97,2561.36,0.0
+2024-05-06,Commercial,Calendar Year,Excellus,Out-of-Network,Simple Radiology (X-ray/DEXA),8579.24,3399.91,28.0
+2024-05-30,Commercial,Non-Calendar Year,Excellus,In-Network,Simple Radiology (X-ray/DEXA),7684.92,2485.85,0.0
+2024-06-02,Commercial,Calendar Year,Excellus,Out-of-Network,Simple Radiology (X-ray/DEXA),8370.95,3579.73,32.0
+2024-06-02,Commercial,Calendar Year,Excellus,In-Network,Simple Radiology (X-ray/DEXA),7444.02,2578.76,0.0
+2024-03-13,Medicare,Non-Calendar Year,Excellus Medicare,In-Network,Simple Radiology (X-ray/DEXA),9653.55,4438.03,0.0
+2024-05-12,Medicare,Calendar Year,Excellus Medicare,In-Network,Simple Radiology (X-ray/DEXA),7389.1,2033.15,0.0
+2024-07-08,Medicare,Non-Calendar Year,Excellus Medicare,In-Network,Simple Radiology (X-ray/DEXA),6194.39,1274.31,0.0
+2024-08-05,Medicare,Calendar Year,Excellus Medicare,In-Network,Simple Radiology (X-ray/DEXA),5969.4,1015.32,0.0
+2024-03-25,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Simple Radiology (X-ray/DEXA),10129.82,5778.35,0.0
+2024-03-27,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Simple Radiology (X-ray/DEXA),10098.8,6065.09,0.0
+2024-04-08,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Simple Radiology (X-ray/DEXA),8219.0,2601.53,0.0
+2024-05-06,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Simple Radiology (X-ray/DEXA),8886.04,3792.79,0.0
+2024-06-23,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Simple Radiology (X-ray/DEXA),8414.96,2816.86,0.0
+2024-06-30,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Simple Radiology (X-ray/DEXA),8703.83,3294.13,48.0
+2024-07-08,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Simple Radiology (X-ray/DEXA),6873.06,1486.77,0.0
+2024-04-03,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Simple Radiology (X-ray/DEXA),8111.12,3219.99,43.0
+2024-04-10,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Simple Radiology (X-ray/DEXA),8447.58,3509.71,0.0
+2024-04-10,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Simple Radiology (X-ray/DEXA),8843.85,4001.71,0.0
+2024-04-02,Medicare,Calendar Year,Fidelis Medicare,Out-of-Network,Simple Radiology (X-ray/DEXA),8556.88,2541.05,0.0
+2024-04-11,Medicare,Non-Calendar Year,Fidelis Medicare,Out-of-Network,Simple Radiology (X-ray/DEXA),8865.18,3007.52,0.0
+2024-04-04,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Simple Radiology (X-ray/DEXA),8753.52,3945.54,0.0
+2024-04-22,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Simple Radiology (X-ray/DEXA),8559.73,2747.76,0.0
+2024-05-19,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Simple Radiology (X-ray/DEXA),8646.48,3743.78,0.0
+2024-07-16,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Simple Radiology (X-ray/DEXA),7089.87,1688.81,0.0
+2024-08-07,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Simple Radiology (X-ray/DEXA),6955.86,2238.61,33.0
+2024-03-18,Commercial,Calendar Year,MVP,In-Network,Simple Radiology (X-ray/DEXA),9540.5,4968.03,49.0
+2024-03-25,Commercial,Calendar Year,MVP,Out-of-Network,Simple Radiology (X-ray/DEXA),9943.48,5015.93,0.0
+2024-04-14,Commercial,Calendar Year,MVP,In-Network,Simple Radiology (X-ray/DEXA),7602.33,2756.97,0.0
+2024-04-23,Commercial,Calendar Year,MVP,In-Network,Simple Radiology (X-ray/DEXA),8030.18,2384.4,0.0
+2024-05-07,Commercial,Calendar Year,MVP,In-Network,Simple Radiology (X-ray/DEXA),7361.66,1866.94,0.0
+2024-05-08,Commercial,Calendar Year,MVP,Out-of-Network,Simple Radiology (X-ray/DEXA),8461.4,3444.12,0.0
+2024-07-03,Commercial,Calendar Year,MVP,In-Network,Simple Radiology (X-ray/DEXA),6222.45,1140.27,48.0
+2024-07-18,Commercial,Non-Calendar Year,MVP,In-Network,Simple Radiology (X-ray/DEXA),5931.07,882.6,0.0
+2024-07-22,Commercial,Calendar Year,MVP,In-Network,Simple Radiology (X-ray/DEXA),6170.38,1463.55,42.0
+2024-07-28,Commercial,Non-Calendar Year,MVP,In-Network,Simple Radiology (X-ray/DEXA),5995.45,1022.05,0.0
+2024-07-07,Medicaid,Calendar Year,MVP Medicaid,In-Network,Simple Radiology (X-ray/DEXA),5715.33,0.0,0.0
+2024-07-15,Medicaid,Calendar Year,MVP Medicaid,In-Network,Simple Radiology (X-ray/DEXA),5565.09,0.0,0.0
+2024-03-19,Medicare,Non-Calendar Year,MVP Medicare,In-Network,Simple Radiology (X-ray/DEXA),8881.35,3723.49,0.0
+2024-03-31,Commercial,Calendar Year,Meritian Health,Out-of-Network,Simple Radiology (X-ray/DEXA),9934.83,5823.65,37.0
+2024-04-23,Commercial,Calendar Year,Meritian Health,Out-of-Network,Simple Radiology (X-ray/DEXA),8653.74,3118.96,0.0
+2024-05-01,Commercial,Calendar Year,Meritian Health,Out-of-Network,Simple Radiology (X-ray/DEXA),8798.62,3074.41,0.0
+2024-06-09,Commercial,Calendar Year,Meritian Health,Out-of-Network,Simple Radiology (X-ray/DEXA),8279.79,3184.33,25.0
+2024-06-11,Commercial,Calendar Year,Meritian Health,Out-of-Network,Simple Radiology (X-ray/DEXA),8744.92,3624.48,0.0
+2024-07-09,Commercial,Calendar Year,Meritian Health,Out-of-Network,Simple Radiology (X-ray/DEXA),6947.23,2173.98,0.0
+2024-07-28,Commercial,Non-Calendar Year,Meritian Health,Out-of-Network,Simple Radiology (X-ray/DEXA),6831.35,1928.3,0.0
+2024-08-28,Commercial,Calendar Year,Meritian Health,Out-of-Network,Simple Radiology (X-ray/DEXA),6687.37,1767.2,0.0
+2024-05-20,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Simple Radiology (X-ray/DEXA),7305.78,0.0,0.0
+2024-08-06,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Simple Radiology (X-ray/DEXA),5819.35,0.0,0.0
+2024-08-06,Medicaid,Non-Calendar Year,Meritian Health Medicaid,Out-of-Network,Simple Radiology (X-ray/DEXA),6181.42,0.0,0.0
+2024-04-18,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Simple Radiology (X-ray/DEXA),8277.19,2867.52,25.0
+2024-05-09,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Simple Radiology (X-ray/DEXA),8503.89,2490.31,0.0
+2024-05-20,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Simple Radiology (X-ray/DEXA),8374.79,2660.41,22.0
+2024-07-21,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Simple Radiology (X-ray/DEXA),7075.72,1998.7,0.0
+2024-08-12,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Simple Radiology (X-ray/DEXA),6819.06,1926.82,45.0
+2024-03-12,Self-Pay,Non-Calendar Year,Self-Pay,In-Network,Simple Radiology (X-ray/DEXA),9225.64,9225.64,0.0
+2024-05-27,Self-Pay,Calendar Year,Self-Pay,In-Network,Simple Radiology (X-ray/DEXA),7071.96,7071.96,0.0
+2024-06-26,Self-Pay,Calendar Year,Self-Pay,In-Network,Simple Radiology (X-ray/DEXA),7032.97,7032.97,0.0
+2024-04-07,Commercial,Calendar Year,UHC,In-Network,Simple Radiology (X-ray/DEXA),8051.2,2734.49,0.0
+2024-04-07,Commercial,Calendar Year,UHC,In-Network,Simple Radiology (X-ray/DEXA),8018.55,2329.87,27.0
+2024-06-06,Commercial,Non-Calendar Year,UHC,Out-of-Network,Simple Radiology (X-ray/DEXA),8563.64,3247.35,26.0
+2024-07-02,Commercial,Calendar Year,UHC,In-Network,Simple Radiology (X-ray/DEXA),6132.45,1378.56,0.0
+2024-09-05,Commercial,Calendar Year,UHC,In-Network,Simple Radiology (X-ray/DEXA),6208.5,1471.22,0.0
+2024-03-27,Medicaid,Calendar Year,UHC Medicaid,In-Network,Simple Radiology (X-ray/DEXA),8187.72,0.0,0.0
+2024-07-18,Medicaid,Calendar Year,UHC Medicaid,In-Network,Simple Radiology (X-ray/DEXA),5722.25,0.0,0.0
+2024-04-16,Medicare,Calendar Year,UHC Medicare,In-Network,Simple Radiology (X-ray/DEXA),7833.98,2317.34,0.0
+2024-09-04,Medicare,Calendar Year,UHC Medicare,In-Network,Simple Radiology (X-ray/DEXA),6454.87,841.2,0.0
+2024-04-08,Commercial,Calendar Year,Aetna,In-Network,Surgery,7781.66,2528.39,421.0
+2024-05-15,Commercial,Calendar Year,Aetna,Out-of-Network,Surgery,8129.31,3665.32,289.0
+2024-05-15,Commercial,Calendar Year,Aetna,In-Network,Surgery,7776.11,2574.8,497.0
+2024-06-25,Commercial,Calendar Year,Aetna,In-Network,Surgery,7423.89,2889.77,375.0
+2024-08-05,Commercial,Calendar Year,Aetna,In-Network,Surgery,6016.86,1411.88,469.0
+2024-03-31,Medicare,Calendar Year,Aetna Medicare,Out-of-Network,Surgery,10472.47,5461.14,259.0
+2024-08-08,Medicare,Calendar Year,Aetna Medicare,In-Network,Surgery,5888.14,1833.86,422.0
+2024-03-28,Commercial,Calendar Year,Excellus,In-Network,Surgery,9119.8,4553.31,0.0
+2024-04-21,Commercial,Calendar Year,Excellus,In-Network,Surgery,7594.78,2516.93,0.0
+2024-07-16,Commercial,Non-Calendar Year,Excellus,In-Network,Surgery,6093.11,1878.4,324.0
+2024-07-31,Commercial,Calendar Year,Excellus,In-Network,Surgery,5872.85,1519.18,333.0
+2024-05-27,Medicaid,Calendar Year,Excellus Medicaid,In-Network,Surgery,6631.45,0.0,0.0
+2024-06-25,Medicaid,Calendar Year,Excellus Medicaid,In-Network,Surgery,7242.2,0.0,0.0
+2024-06-26,Medicaid,Calendar Year,Excellus Medicaid,In-Network,Surgery,7126.85,0.0,0.0
+2024-08-01,Medicare,Calendar Year,Excellus Medicare,In-Network,Surgery,5870.33,988.78,0.0
+2024-08-06,Medicare,Calendar Year,Excellus Medicare,In-Network,Surgery,6148.86,1484.28,0.0
+2024-08-08,Medicare,Calendar Year,Excellus Medicare,In-Network,Surgery,6477.06,1302.0,256.0
+2024-08-12,Medicare,Non-Calendar Year,Excellus Medicare,In-Network,Surgery,6434.25,1655.67,489.0
+2024-09-03,Medicare,Calendar Year,Excellus Medicare,In-Network,Surgery,6393.96,1085.04,0.0
+2024-05-20,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Surgery,8793.1,3276.74,0.0
+2024-06-23,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Surgery,8474.53,4101.08,473.0
+2024-07-30,Commercial,Calendar Year,Fidelis Bronze,Out-of-Network,Surgery,6551.45,1574.62,0.0
+2024-03-19,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Surgery,9987.52,5319.29,0.0
+2024-03-25,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Surgery,10073.33,5605.69,321.0
+2024-05-12,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Surgery,8905.5,4236.4,489.0
+2024-05-23,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Surgery,8476.04,3116.08,407.0
+2024-05-23,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Surgery,8486.02,3457.88,426.0
+2024-08-13,Commercial,Calendar Year,Fidelis Gold,Out-of-Network,Surgery,6466.61,2516.48,405.0
+2024-03-14,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Surgery,9526.75,0.0,0.0
+2024-05-05,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Surgery,7407.65,0.0,0.0
+2024-06-30,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Surgery,7803.67,0.0,0.0
+2024-07-30,Medicaid,Calendar Year,Fidelis Medicaid,Out-of-Network,Surgery,6310.59,0.0,0.0
+2024-08-11,Medicare,Non-Calendar Year,Fidelis Medicare,Out-of-Network,Surgery,6958.76,2102.77,492.0
+2024-09-04,Medicare,Non-Calendar Year,Fidelis Medicare,Out-of-Network,Surgery,7061.36,1631.97,0.0
+2024-04-04,Commercial,Calendar Year,Fidelis Silver,Out-of-Network,Surgery,8568.5,3687.91,0.0
+2024-03-13,Commercial,Calendar Year,MVP,In-Network,Surgery,9510.45,5259.25,0.0
+2024-04-18,Commercial,Calendar Year,MVP,In-Network,Surgery,7375.12,3123.93,0.0
+2024-05-05,Commercial,Calendar Year,MVP,In-Network,Surgery,7553.84,3060.19,0.0
+2024-07-18,Commercial,Calendar Year,MVP,In-Network,Surgery,6339.41,1237.9,0.0
+2024-08-04,Commercial,Non-Calendar Year,MVP,In-Network,Surgery,6072.33,1514.52,0.0
+2024-08-06,Commercial,Calendar Year,MVP,In-Network,Surgery,6290.21,1351.38,0.0
+2024-08-14,Commercial,Calendar Year,MVP,In-Network,Surgery,5865.09,1632.57,320.0
+2024-05-01,Medicaid,Calendar Year,MVP Medicaid,In-Network,Surgery,6745.67,0.0,0.0
+2024-07-03,Medicaid,Calendar Year,MVP Medicaid,Out-of-Network,Surgery,5834.04,0.0,0.0
+2024-09-11,Medicaid,Calendar Year,MVP Medicaid,In-Network,Surgery,5733.48,0.0,0.0
+2024-05-02,Medicare,Calendar Year,MVP Medicare,In-Network,Surgery,7400.54,2280.86,0.0
+2024-05-05,Medicare,Calendar Year,MVP Medicare,In-Network,Surgery,8013.38,1975.02,0.0
+2024-05-15,Medicare,Calendar Year,MVP Medicare,Out-of-Network,Surgery,8229.3,2941.52,371.0
+2024-08-05,Medicare,Calendar Year,MVP Medicare,In-Network,Surgery,6170.8,1429.7,453.0
+2024-04-02,Commercial,Calendar Year,Meritian Health,Out-of-Network,Surgery,8850.0,3693.89,255.0
+2024-07-08,Commercial,Calendar Year,Meritian Health,Out-of-Network,Surgery,6860.46,2458.71,423.0
+2024-08-25,Commercial,Non-Calendar Year,Meritian Health,Out-of-Network,Surgery,6728.09,2076.06,311.0
+2024-09-04,Commercial,Calendar Year,Meritian Health,Out-of-Network,Surgery,6603.95,2358.55,378.0
+2024-04-15,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Surgery,7306.36,0.0,0.0
+2024-07-09,Medicaid,Calendar Year,Meritian Health Medicaid,Out-of-Network,Surgery,6337.41,0.0,0.0
+2024-05-02,Medicare,Calendar Year,Meritian Health Medicare,Out-of-Network,Surgery,8234.6,3488.77,411.0
+2024-04-24,Self-Pay,Calendar Year,Self-Pay,In-Network,Surgery,7029.93,7029.93,0.0
+2024-07-25,Self-Pay,Calendar Year,Self-Pay,In-Network,Surgery,5705.99,5705.99,0.0
+2024-07-31,Self-Pay,Calendar Year,Self-Pay,In-Network,Surgery,5944.3,5944.3,0.0
+2024-04-22,Commercial,Calendar Year,UHC,In-Network,Surgery,7620.61,2954.1,404.0
+2024-06-12,Commercial,Calendar Year,UHC,In-Network,Surgery,7557.78,2646.95,0.0
+2024-06-27,Commercial,Calendar Year,UHC,In-Network,Surgery,7815.6,2829.66,344.0
+2024-07-07,Commercial,Calendar Year,UHC,In-Network,Surgery,6223.82,1475.59,269.0
+2024-07-25,Commercial,Calendar Year,UHC,In-Network,Surgery,6121.73,1707.46,371.0
+2024-09-11,Commercial,Calendar Year,UHC,In-Network,Surgery,6127.18,1522.21,409.0
+2024-09-12,Commercial,Non-Calendar Year,UHC,Out-of-Network,Surgery,6583.62,1944.38,474.0
+2024-09-15,Commercial,Calendar Year,UHC,In-Network,Surgery,6217.45,1816.44,498.0
+2024-07-14,Medicaid,Calendar Year,UHC Medicaid,In-Network,Surgery,5464.47,0.0,0.0
+2024-04-21,Medicare,Calendar Year,UHC Medicare,In-Network,Surgery,7530.38,1911.82,0.0
+2024-07-15,Medicare,Calendar Year,UHC Medicare,In-Network,Surgery,6309.06,966.12,0.0
